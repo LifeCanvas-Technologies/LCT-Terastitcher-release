@@ -4,7 +4,7 @@ This is the repository to download for releases for users. It contains the compi
 
 If you would like to edit the source code and re-compile, please see the instructions here https://lifecanvastech.slab.com/posts/2023-11-16-terastitcher-mod-fix-mni42212
 
-The source code is located at [LCT-Terastitcher](https://github.com/LifeCanvas-Technologies/LCT-Terastitcher)
+The source code is located at https://github.com/LifeCanvas-Technologies/LCT-Terastitcher
 
 
 ===========================================================
